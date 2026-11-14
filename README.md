@@ -45,7 +45,7 @@ Bienvenue dans <span style="color:#00FF00">**MeBublic**</span>. Ce guide a été
 
 <span style="color:#00FF00">**Parler en public n'est pas un talent inné. C'est une compétence qui s'apprend.**</span>
 
-Ce document dépasse les 4000 lignes pour t'offrir une immersion complète. Prends-le comme un manuel de référence que tu consulteras régulièrement.
+
 
 ---
 
